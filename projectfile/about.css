@@ -1,0 +1,68 @@
+.w2{
+    width:700px;
+    height: 70px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size:170%;
+    border-width: 2px solid rgb(164, 159, 159);
+    margin-left:320px ;
+    margin-top: -35px;
+    background-color: chocolate;
+}
+
+body{
+    /* background-image: url("https://source.unsplash.com/1100x1100/?camerashot,natural animals") ; */
+    background-image: url("../image/45.avif");
+    font-family: 'Baloo Bhai 2', cursive;
+    color:aliceblue;
+    text-align: center;
+
+}
+.name-head {
+    font-family: cursive;
+    color: purple;
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(255, 203, 47);
+    margin-left: 22%;
+  }
+  .heading-text {
+    text-align: center;
+    height: 150px;
+    width: 700px;
+    margin: auto;
+  }
+  img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 700px;
+    width: 1000px; 
+}
+.topic{
+text-align: center;
+height: 50px;
+width: 1000px;
+margin: auto; 
+background-color: antiquewhite;
+
+}
+.name-head{
+font-family: cursive;
+color: purple;
+width: 400px;
+height: 50px;
+border-radius: 10px;
+background-color: rgb(255, 203, 47);
+margin-left: 22%;
+}
+.heading-text{
+text-align: center;
+height: 150px;
+width: 700px;
+margin: auto; 
+}
+.head-topic{
+font-family: cursive;
+color: chocolate;
+}
