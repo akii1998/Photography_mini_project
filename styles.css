@@ -11,8 +11,8 @@ body{
     /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
     font-size: medium;
     color: rgb(138, 80, 255);
-    width: 65.0rem;
-    height: 3.5rem;
+    width: 85.0rem;
+    height: 4.0rem;
     border-radius: 1.0 rem,;
     background-color: rgb(47, 255, 151);
     margin-left: 0%;
@@ -143,6 +143,6 @@ img{
 
     @media (max-width:700px){
         html{
-            font-size: 30%;
+            font-size: 32%;
         }
     }
