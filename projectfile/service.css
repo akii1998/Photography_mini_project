@@ -1,3 +1,6 @@
+html{
+    font-size: 10px;
+}
 body{
     background-attachment: fixed;
     /* background-image: url("https://source.unsplash.com/1100x1100/?camerashot,natural animals") ; */
@@ -7,29 +10,29 @@ body{
 .name-head{
     font-family: cursive;
     color: purple;
-    width: 400px;
-    height: 50px;
-    border-radius: 10px;
+    width: 40.0rem;
+    height: 5.0rem;
+    border-radius: 1.0rem;
     background-color: rgb(255, 203, 47);
     margin-left: 22%;
 }
 .heading-text{
     text-align: center;
-    height: 150px;
-    width: 700px;
+    height: 15.0rem;
+    width: 70.0rem;
     margin: auto; }
 
     img{
         margin-left: auto;
         margin-right: auto;
         display: block;
-        height: 700px;
-        width: 1000px; 
+        height: 70.0rem;
+        width: 100.0rem; 
     }
 .topic{
     text-align: center;
-    height: 50px;
-    width: 1000px;
+    height: 5.0rem;
+    width: 100.0rem;
     margin: auto; 
     background-color: antiquewhite;
 
@@ -37,19 +40,30 @@ body{
 .name-head{
     font-family: cursive;
     color: purple;
-    width: 400px;
-    height: 50px;
-    border-radius: 10px;
+    width: 40.0rem;
+    height: 5.0rem;
+    border-radius: 1.0rem;
     background-color: rgb(255, 203, 47);
     margin-left: 22%;
 }
 .heading-text{
     text-align: center;
-    height: 150px;
-    width: 700px;
+    height: 15.0rem;
+    width: 70.0rem;
     margin: auto; 
 }
 .head-topic{
     font-family: cursive;
     color: chocolate;
 }
+
+@media (max-width:998px){
+ html{  
+    font-size: 55%;
+}
+}
+@media (max-width:700px){
+    html{  
+       font-size: 25%;
+   }
+   }
