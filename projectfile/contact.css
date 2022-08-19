@@ -82,7 +82,7 @@ body {
   margin: auto;
 }
 .con-1{
-    margin-left: 56.0rem;
+    margin-left: auto;
     color:rgb(178, 178, 162);
 }
 @media (max-width:998px){
